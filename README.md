@@ -1,5 +1,5 @@
 # hello-world
-Trial 1
+Learn GitHub basics here: https://guides.github.com/activities/hello-world/
 
 I am a person with a headstrong desire for perseverance!
 
